@@ -36,15 +36,15 @@ the perfomance of the factors, that is a long short portfolio. The reason that w
  
  * The following is the BP longshort net value and it's from 2005 to 2021.
 
-![image](https://github.com/algo21-220040002/Assign2/blob/master/Paper/BP_longshort_2005-2021.png)
+<img src="https://github.com/algo21-220040002/Assign2/blob/master/Paper/BP_longshort_2005-2021.png" width="800" height="400" /><br/>
 
  * The following is the EP longshort net value and it's from 2005 to 2021. 
- 
- ![image](https://github.com/algo21-220040002/Assign2/blob/master/Paper/EP_longshort_2005-2021.png)
+
+<img src="https://github.com/algo21-220040002/Assign2/blob/master/Paper/EP_longshort_2005-2021.png" width="800" height="400" /><br/>
  
  * The following is the ROE_TTM longshort net value and it's from 2005 to 2001.
 
- ![image](https://github.com/algo21-220040002/Assign2/blob/master/Paper/ROE_TTM_longshort_2005-2021.png)
+<img src="https://github.com/algo21-220040002/Assign2/blob/master/Paper/ROE_TTM_longshort_2005-2021.png" width="800" height="400" /><br/>
  
       
     
