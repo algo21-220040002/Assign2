@@ -23,10 +23,14 @@ the perfomance of the factors, that is a long short portfolio. The reason that w
        
       * There is a package named data, in the package close data is the data of the price, factor data is the factor data.
       
-      * In the main package there is a folders named "因子" and in this folder there are some folder named by the factor and after you run the longshort the net value data will be 
-      stored here and there will be picture shown.
+      * In the main package there is a folders named "因子" and in this folder there are some folder named by the factor and after you run the longshort the net value data will be stored here and there will be picture shown.
       
-## 
+## Enviroment prepared
+
+ * The version of python: 3.8
+ * We recommed you to use pycharm. After you download it and you can use pycharm to run it.
+
+## Result 
       
     
     
