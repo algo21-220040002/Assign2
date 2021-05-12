@@ -32,7 +32,7 @@ the perfomance of the factors, that is a long short portfolio. The reason that w
 
 ## Result 
 
-![image](https://github.com/algo21-220040002/Assign2/blob/master/Paper/BP_longshort_2005-2021.PNG)
+![image](https://github.com/algo21-220040002/Assign2/blob/master/Paper/BP_longshort_2005-2021.png)
       
     
     
