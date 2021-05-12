@@ -37,6 +37,11 @@ the perfomance of the factors, that is a long short portfolio. The reason that w
  * The following is the BP longshort net value and it's from 2005 to 2021.
 
 ![image](https://github.com/algo21-220040002/Assign2/blob/master/Paper/BP_longshort_2005-2021.png)
+
+ * The following is the EP longshort net value and it's from 2005 to 2021.
+ * 
+ ![image](https://github.com/algo21-220040002/Assign2/blob/master/Paper/EP_longshort_2005-2021.png)
+ 
       
     
     
