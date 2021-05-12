@@ -31,6 +31,8 @@ the perfomance of the factors, that is a long short portfolio. The reason that w
  * We recommed you to use pycharm. After you download it and you can use pycharm to run it.
 
 ## Result 
+
+![image](https://github.com/algo21-220040002/Assign2/blob/master/Paper/BP_longshort_2005-2021.PNG)
       
     
     
