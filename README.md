@@ -36,30 +36,30 @@ the perfomance of the factors, that is a long short portfolio. The reason that w
  
  * The interesting phenomenon
 
-From the net value of the longshort net value, I find that BP factor plays an important role in 2007-2010 and 2014-2019, in this two periods there is 
+    From the net value of the longshort net value, I find that BP factor plays an important role in 2007-2010 and 2014-2019, in this two periods there is 
 some crisis and it's a bear market. However, from 2019 to 2020 it's a bull market but the return of BP has large drawback. And it's the same for EP, both BP and EP
 are factors of value factor. So in bull market maybe value factor is not so good but in bear market it's on the contrary. But what's the reason?
 
-After I read some reports I think the reason is that in bear market investors tend to buy the stocks that is undervalued like banks,coal because the undervalued stock is more defensive but in bull market investors like to buy the high growth stocks like technology because they can have a good return.
+   After I read some reports I think the reason is that in bear market investors tend to buy the stocks that is undervalued like banks,coal because the undervalued stock is more defensive but in bull market investors like to buy the high growth stocks like technology because they can have a good return.
 
-To some extent, The net value of ROE_TTM proves the above conclusion. The stocks that have high ROE_TTM can be seen high growth stocks and from 2007 to 2010 it has a large 
+   To some extent, The net value of ROE_TTM proves the above conclusion. The stocks that have high ROE_TTM can be seen high growth stocks and from 2007 to 2010 it has a large 
 drawback but from 2019 to 2020 there is good return. 
 
-Of course the analysis is just a cursory observation and maybe we can do more in-depth research.
+   Of course the analysis is just a cursory observation and maybe we can do more in-depth research.
  
  * The picture of the longshort net value
  
      * The following is the BP longshort net value and it's from 2005 to 2021.
 
-<img src="https://github.com/algo21-220040002/Assign2/blob/master/Paper/BP_longshort_2005-2021.png" width="800" height="400" /><br/>
+          <img src="https://github.com/algo21-220040002/Assign2/blob/master/Paper/BP_longshort_2005-2021.png" width="800" height="400" /><br/>
 
      * The following is the EP longshort net value and it's from 2005 to 2021. 
 
-<img src="https://github.com/algo21-220040002/Assign2/blob/master/Paper/EP_longshort_2005-2021.png" width="800" height="400" /><br/>
+          <img src="https://github.com/algo21-220040002/Assign2/blob/master/Paper/EP_longshort_2005-2021.png" width="800" height="400" /><br/>
  
      * The following is the ROE_TTM longshort net value and it's from 2005 to 2001.
 
-<img src="https://github.com/algo21-220040002/Assign2/blob/master/Paper/ROE_TTM_longshort_2005-2021.png" width="800" height="400" /><br/>
+          <img src="https://github.com/algo21-220040002/Assign2/blob/master/Paper/ROE_TTM_longshort_2005-2021.png" width="800" height="400" /><br/>
  
       
     
