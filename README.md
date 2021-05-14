@@ -27,7 +27,7 @@ the perfomance of the factors, that is a long short portfolio. The reason that w
       
 ## Enviroment prepared
 
- * The version of python: 3.8
+ * The version of python: 3.7
  * We recommed you to use pycharm. After you download it and you can use pycharm to run it.
 
 ## Result 
